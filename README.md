@@ -6,6 +6,12 @@
 Some pics:
 1. Blinn materials: 
 <img src="images/blinn.png" width="300">
-2. Rotated cube: ![](./images/cube.png=100x20)
-3. Point light vs directional light: ![](./images/point_and_directional.jpg=100x20)
-4. Complete: ![](./images/complete.jpg=500x)
+
+2. Rotated cube:
+<img src="images/cube.png" width="200">
+
+3. Point light vs directional light:
+<img src="images/point_and_directional.ipg" width="200">
+
+4. Complete:
+<img src="images/complete.jpg" width="500">
