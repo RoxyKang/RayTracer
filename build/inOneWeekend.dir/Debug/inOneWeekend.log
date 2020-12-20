@@ -1,0 +1,46 @@
+﻿  main.cc
+C:\Users\ASUS\Desktop\RayTracer\src\vec3.h(188,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\vec3.h(189,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\vec3.h(217,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\vec3.h(218,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\vec3.h(233,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\vec3.h(234,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\vec3.h(235,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\vec3.h(236,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\vec3.h(243,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ASUS\Desktop\RayTracer\src\vec3.h(244,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ASUS\Desktop\RayTracer\src\sphere.h(18,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\sphere.h(19,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\sphere.h(20,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\hitable_list.h(20,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\camera.h(10,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\material.h(33,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\material.h(34,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\material.h(35,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\material.h(36,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\material.h(19,17): warning C4244: 'initializing': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\ASUS\Desktop\RayTracer\src\material.h(25,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\material.h(82,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\material.h(86,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\material.h(87,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\triangle.h(26,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\cone.h(27,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\cone.h(30,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\cone.h(31,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\cone.h(32,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\cone.h(39,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\cone.h(51,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\main.cc(19,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\main.cc(23,126): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Desktop\RayTracer\src\main.cc(26,127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\RayTracer\src\main.cc(26,138): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Desktop\RayTracer\src\main.cc(29,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Desktop\RayTracer\src\main.cc(44,5): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Desktop\RayTracer\src\main.cc(62,8): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Desktop\RayTracer\src\main.cc(110,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ASUS\Desktop\RayTracer\src\main.cc(111,84): warning C4305: 'argument': truncation from 'double' to 'float'
+  inOneWeekend.vcxproj -> C:\Users\ASUS\Desktop\RayTracer\build\Debug\inOneWeekend.exe
