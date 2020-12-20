@@ -8,10 +8,10 @@ Some pics:
 <img src="images/blinn.png" width="300">
 
 2. Rotated cube:
-<img src="images/cube.png" width="200">
+<img src="images/cube.png" width="300">
 
 3. Point light vs directional light:
-<img src="images/point_and_directional.ipg" width="200">
+<img src="images/point_and_directional.jpg" width="300">
 
 4. Complete:
 <img src="images/complete.jpg" width="500">
