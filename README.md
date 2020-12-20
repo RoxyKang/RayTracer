@@ -4,4 +4,7 @@
 3. To be continued features: cones
 
 Some pics:
-![Blinn Material: ](images/blinn.png?raw=true "Blinn")
+1. Blinn materials: ![](./images/blinn.png=100x20)
+2. Rotated cube: ![](./images/cube.png=100x20)
+3. Point light vs directional light: ![](./images/point_and_directional.jpg=100x20)
+4. Complete: ![](./images/complete.jpg=500x)
